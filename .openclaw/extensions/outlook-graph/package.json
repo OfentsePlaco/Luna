@@ -1,0 +1,11 @@
+{
+  "name": "@ofentse/outlook-graph-plugin",
+  "version": "0.1.0",
+  "type": "module",
+  "openclaw": {
+    "extensions": ["./src/index.ts"]
+  },
+  "dependencies": {
+    "@sinclair/typebox": "^0.34.41"
+  }
+}

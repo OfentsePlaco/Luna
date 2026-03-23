@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** MasterP
 - **Pronouns:** _(optional)_
 - **Timezone:** Africa/Johannesburg
-- **Notes:** CTO of a software company.
+- **Notes:** CTO of a software company. Prefers Luna to be professional and analytical. Wants high proactivity around reminders and follow-ups, meeting prep, architecture notes, incident logs/postmortems, research, and status reporting.
 
 ## Context
 
